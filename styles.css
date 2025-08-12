@@ -12,7 +12,13 @@ header {
 }
 
 section {
-    background: rgb(229, 226, 233);
+    background: rgb(9, 2, 19);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
     
 }
 
